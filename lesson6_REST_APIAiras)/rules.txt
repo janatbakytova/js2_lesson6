@@ -1,0 +1,22 @@
+HTTP - Hyper Text Transfer Protocol
+
+Client ----> Youtube.com
+Client <---- HTML Document
+    HTML ----> script ----> css
+
+API - Application programming Interface
+Client ---GET---> /example/endpoint
+API ----> Database 
+API <--data-- Database
+Client <---- API
+
+HTTPS ----> Hyper Text Transfer Protocol Secure
+
+REST API - REpresentational State Transfer API
+
+REST full API
+CRUD - Create Read Update Delete
+         ||    |      |     ||
+        POST  GET    PUT  DELETE
+
+

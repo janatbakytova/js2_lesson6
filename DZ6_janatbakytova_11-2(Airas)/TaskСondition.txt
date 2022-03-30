@@ -1,0 +1,31 @@
+Стрим:
+https://youtu.be/JZ1ZV0ytlcs
+
+#HW:
+
+Сделать еще одну кнопку в каждом продукте Edit
+при нажатии открывается форма с заполненными данными,
+которые можно изменять изменяем и отправляем PUT запрос по ендпоинту /products/PRODUCT_ID
+с измененным объектом продукта
+пример:
+
+объект продукта: 
+{
+title: ““First””,
+description: “”First description””,
+price: 1000,
+stock_price: 0,
+category_id: 1
+}
+
+
+объекто продукта после изменения: 
+{
+title: “”Changed Title””,
+description: “”Changed description””,
+price: 2000,
+stock_price: 0,
+category_id: 1
+}
+
+Deadline: 30.03.2022 20:00
